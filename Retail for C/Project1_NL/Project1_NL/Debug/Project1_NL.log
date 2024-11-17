@@ -1,0 +1,4 @@
+﻿  Project1_NL.c
+F:\C prog\Project1_NL\Project1_NL\Project1_NL\Project1_NL.c(244,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\C prog\Project1_NL\Project1_NL\Project1_NL\Project1_NL.c(279,55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1_NL.vcxproj -> F:\C prog\Project1_NL\Project1_NL\Debug\Project1_NL.exe
